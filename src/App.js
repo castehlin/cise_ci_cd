@@ -18,7 +18,7 @@ return (
 ENSE701 Assessment 1A
 S1 2021 Pg 3 of 6 copyright Jim Buchannn
 <p>Count: {this.state.count}</p>
-<button className="increment" onClick={this.increment}>Increment
+<button className="increment" onClick={thidasffadfasincrement}>Increment
 count</button>
 </div>
 )
