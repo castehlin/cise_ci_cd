@@ -35,3 +35,6 @@ jobs:
 
     - name: Linter
       run: npm run lint
+    
+    - name: Fix Linter problems
+      run: npm run lint -- --fix
